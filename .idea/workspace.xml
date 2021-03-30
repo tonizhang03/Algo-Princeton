@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="1hFILo9qPs2e950hXEOIVxK8jeI" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.KdTree">
+    <configuration name="BinarySearchNew" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchNew" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BinarySearchSmallest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchSmallest" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Board" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Board" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/testinput.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BottomUpMergesort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BottomUpMergesort" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BruteCollinearPoints" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BruteCollinearPoints" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/input66.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CheckPair" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CheckPair" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Deque" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Deque" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise1312" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Exercise1312" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FastCollinearPoints" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FastCollinearPoints" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/input66.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FindKth" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FindKth" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FixedCapacityStackOfStrings" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FixedCapacityStackOfStrings" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Helloworld" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Helloworld" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KdTree" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="KdTree" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/testinput.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LeftParentheses" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LeftParentheses" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="5 10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Point" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Point" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PointSET" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PointSET" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="50" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PrintSame" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PrintSame" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomizedQueue" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomizedQueue" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ResizingArrayQueueOfStrings" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ResizingArrayQueueOfStrings" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SequentialSearchST" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SequentialSearchST" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/testinput.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ShellSort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ShellSort" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Solver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Solver" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/testinput.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StackForTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="StackForTest" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestClient" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TestClient" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/testinput.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TimeADT" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TimeADT" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TopDownMergesort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TopDownMergesort" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="32" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1475" y="619" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601442684638">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1475" y="619" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1601442684638" />
+    <state x="1729" y="351" key="#com.intellij.ide.util.MemberChooser" timestamp="1603927892270">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1729" y="351" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1603927892270" />
+    <state x="1729" y="463" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1601403078116">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1729" y="463" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1601403078116" />
+    <state width="1918" height="346" key="GridCell.Tab.0.bottom" timestamp="1605733885751">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1918" height="346" key="GridCell.Tab.0.bottom/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1605733885751" />
+    <state width="1918" height="346" key="GridCell.Tab.0.center" timestamp="1605733885750">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1918" height="346" key="GridCell.Tab.0.center/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1605733885750" />
+    <state width="1918" height="346" key="GridCell.Tab.0.left" timestamp="1605733885750">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1918" height="346" key="GridCell.Tab.0.left/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1605733885750" />
+    <state width="1918" height="346" key="GridCell.Tab.0.right" timestamp="1605733885751">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1918" height="346" key="GridCell.Tab.0.right/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1605733885751" />
+    <state width="1308" height="473" key="GridCell.Tab.1.bottom" timestamp="1600547395623">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1308" height="473" key="GridCell.Tab.1.bottom/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1600547395623" />
+    <state width="1308" height="473" key="GridCell.Tab.1.center" timestamp="1600547395623">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1308" height="473" key="GridCell.Tab.1.center/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1600547395623" />
+    <state width="1308" height="473" key="GridCell.Tab.1.left" timestamp="1600547395623">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1308" height="473" key="GridCell.Tab.1.left/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1600547395623" />
+    <state width="1308" height="473" key="GridCell.Tab.1.right" timestamp="1600547395623">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1308" height="473" key="GridCell.Tab.1.right/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1600547395623" />
+    <state x="1382" y="431" key="IDE.errors.dialog" timestamp="1601682987114">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1382" y="431" key="IDE.errors.dialog/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1601682987114" />
+    <state x="1299" y="328" key="SettingsEditor" timestamp="1605911596259">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1299" y="328" key="SettingsEditor/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1605911596259" />
+    <state x="1603" y="571" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600399569387">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1603" y="571" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1600399569387" />
+    <state x="1571" y="318" width="670" height="676" key="search.everywhere.popup" timestamp="1606023018980">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1571" y="318" width="670" height="676" key="search.everywhere.popup/0.23.2560.1333/-1920.23.1920.1057@0.23.2560.1333" timestamp="1606023018980" />
+  </component>
+</project>

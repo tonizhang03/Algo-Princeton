@@ -1,0 +1,30 @@
+import edu.princeton.cs.algs4.StdIn;
+import edu.princeton.cs.algs4.StdOut;
+
+public class Exercise134 {
+    // test client
+    public static void main(String[] args) {
+        StackForTest<String> test = new StackForTest<String>();
+        while (!StdIn.isEmpty()) {
+            String s = StdIn.readString();
+            if (s.equals("{")) {
+                test.push(s);
+            }
+            else if (s.equals("[")) {
+                test.push(s);
+            }
+            else if (s.equals("(")) {
+                test.push(s);
+            }
+            else if (s.equals(")")) {
+                StdOut.println(test.pop(s).equals("("));
+            }
+            else if (s.equals("}")) {
+                StdOut.println(test.pop(s).equals("{"));
+            }
+            else if (s.equals("]")) {
+                StdOut.println(test.pop(s).equals("["));
+            }
+        }
+    }
+}
